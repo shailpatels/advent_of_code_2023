@@ -1,2 +1,3 @@
 a.out
 zig-cache
+*.txt
